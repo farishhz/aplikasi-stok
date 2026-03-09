@@ -1,1 +1,1 @@
-# aplikasi-stok
+# aplikasi-stok laravel
